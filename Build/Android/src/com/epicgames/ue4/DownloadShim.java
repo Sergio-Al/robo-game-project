@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.RoboProject.OBBDownloaderService;
-import com.YourCompany.RoboProject.DownloaderActivity;
+import com.EventumGames.RoboProject.OBBDownloaderService;
+import com.EventumGames.RoboProject.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.RoboProject.OBBData;
+import com.EventumGames.RoboProject.OBBData;
 
 
 public class DownloadShim
